@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, health, financial technology, financial services and artificial intelligence.
 - 🌱 I’m currently learning learning advanced deep learning techniques, cloud computing and improving my facial recognition system.
 - 💞️ I’m looking to collaborate on projects related to machine learning and data analysis.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jadesolao/) or [Email](jadesolaoladeinde@gmail.com).
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jadesolao/) or [Email](jadesolaoladeinde@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a background in both Data Science and Human Kinetics/ Health Education!
 
