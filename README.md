@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JADESOLA-O
-- 👀 I’m interested in data science, health, financial technology and financial services.
+- 👀 I’m interested in data related to health, retail and financial services.
 - 🌱 I’m currently learning advanced deep learning techniques, cloud computing and improving my facial recognition system.
 - 💞️ I’m looking to collaborate on projects related to machine learning and data analysis.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jadesolao/) or [Email](jadesolaoladeinde@gmail.com)
