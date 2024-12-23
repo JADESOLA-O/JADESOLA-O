@@ -39,7 +39,7 @@ Databases: MySQL, PostgreSQL
 Financial Technology: Data Analysis, Fraud Detection, Customer Insights, Transaction Data Analysis
 Version Control: Git, GitHub
 
-🏆 Featured Projects
+## 🏆 Featured Projects
 # Real-Time Facial Emotion Recognition System
 Description:The primary aim of the study is to identified the best-performing CNN model among VGG16, ResNet50, baseline and EfficientNetB3 for real-time facial emotion recognition and integrate the model with the best performance into a streamlit web application that can detect emotions accurately and efficiently. The secondary goals are to design a system that excels in training unseen and real-world data, guaranteeing its practical usefulness and constructing an efficient system that can be directly employed in real-time applications. The study created a practical FER system for deployment in diverse applications by exploring and combining advanced CNN architectures with data augmentation and real-time processing techniques.
 Features: Detects five basic emotions (happy, sad, angry, surprised, neutral) in real-time.
