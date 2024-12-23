@@ -55,7 +55,7 @@ In the case of XGBR, the relatively low RMSE and high R² again suggest robust p
 
 # Airline Survey Analysis Dashboard
 Description: Created a Power BI dashboard to analyze customer satisfaction data for an airline.
-Features: Drill-down visuals, KPIs for satisfaction, and actionable insights for service improvement.
+Features: Drill-down visuals, applied DAX formulas, KPIs for satisfaction, and actionable insights for service improvement.
 
 # Deep Learning for Pneumonia Detection
 Description: Classified chest X-ray images using CNN architectures (ResNet50, VGG16, VGG19).
@@ -63,5 +63,5 @@ Impact: Achieved 92% accuracy, aiding in faster medical diagnoses.
 
 # Sales Analysis Dashboard
 Description: Built an interactive sales analysis system using Excel.
-Features: Advanced formulas, PivotTables, and Conditional Formatting for trend analysis.
+Features: Advanced formulas, PivotTables, dashoard, charts for visualization and Conditional Formatting for trend analysis.
 
