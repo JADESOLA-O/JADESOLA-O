@@ -26,7 +26,7 @@ Real-Time Application Development
 She/Her
 
 ⚡ Fun Fact
-I have a unique background in Data Science and Human Kinetics/Health Education, which fuels my passion for creating innovative healthcare solutions.
+I have a unique background in Data Science and Human Kinetics/Health Education, which fuels my passion for creating innovative solutions.
 
 💻 Skills
 Programming: Python, SQL
